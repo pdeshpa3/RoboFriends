@@ -1,29 +1,29 @@
 export const robots = [
 
 {
-  name : 'Shreya',
+  name : 'Pranav',
   id : 1,
   email: 'xyz@gmail.coco'
 },
 {
-  name : 'Shreya',
+  name : 'Siddhi',
   id : 1,
   email: 'xyz@gmail.coco'
 },
 {
-  name : 'Shreya',
+  name : 'Sandesh',
   id : 1,
   email: 'xyz@gmail.coco'
 }
 ,
 {
-  name : 'Shreya',
+  name : 'Patwa',
   id : 1,
   email: 'xyz@gmail.coco'
 },
 
 {
-  name : 'Shreya',
+  name : 'Bhakti',
   id : 1,
   email: 'xyz@gmail.coco'
 }
@@ -35,7 +35,7 @@ export const robots = [
 }
 ,
 {
-  name : 'Shreya',
+  name : 'Praneel',
   id : 1,
   email: 'xyz@gmail.coco'
 }
